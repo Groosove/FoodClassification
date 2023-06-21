@@ -123,6 +123,8 @@
 		4A4A204D2A396CAD00E08292 /* Entity */ = {
 			isa = PBXGroup;
 			children = (
+				4A4A205A2A396EFD00E08292 /* MFood+CoreDataClass.swift */,
+				4A4A205B2A396EFD00E08292 /* MFood+CoreDataProperties.swift */,
 			);
 			path = Entity;
 			sourceTree = "<group>";
@@ -130,8 +132,6 @@
 		4A4ABE372A2A4AF9000459BA = {
 			isa = PBXGroup;
 			children = (
-				4A4A205A2A396EFD00E08292 /* MFood+CoreDataClass.swift */,
-				4A4A205B2A396EFD00E08292 /* MFood+CoreDataProperties.swift */,
 				4A4ABE422A2A4AF9000459BA /* FoodClassifiication */,
 				4A4ABE412A2A4AF9000459BA /* Products */,
 			);
